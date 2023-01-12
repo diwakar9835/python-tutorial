@@ -1,4 +1,4 @@
-print("hello \"world\" world") # Escape sequence
+print("hello \"world\" world") # Escape sequenc
 print('I\' am Ankit') # Escape sequence
 print("Line A\nLine B\nLine C") # \n for new line
 print("Name \tAnkit") # \t for space
